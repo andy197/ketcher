@@ -1,6 +1,10 @@
 {
   "name": "ketcher",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andy197/ketcher.git"
+  },
   "workspaces": [
     "packages/ketcher-core",
     "packages/ketcher-standalone",
